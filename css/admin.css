@@ -44,7 +44,7 @@ form > button {
 
 @font-face {
   font-family: "ArcadeClassic";
-  src: url("../css/ArcadeClassic.ttf") format("truetype");
+  src: url("./css/ArcadeClassic.ttf") format("truetype");
 }
 
 button {
